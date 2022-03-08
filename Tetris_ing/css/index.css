@@ -1,0 +1,52 @@
+
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td{
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    vertical-align: middle;
+    outline: 0.5px solid #eaeaea;
+}
+
+
+.board{
+    background-color: #5f3dc4;
+}
+.guard{
+    background-color: #91a7ff;
+}
+.map{
+    background-color: #cccccc;
+}
+.ghost{
+    background-color: #495057;
+}
+
+.block0{
+    background-color: #f5f100;
+}
+.block1{
+    background-color: #bb5555;
+}
+.block2{
+    background-color: #055521;
+}
+.block3{
+    background-color: #322554;
+}
+.block4{
+    background-color: #877853;
+}
+.block5{
+    background-color: #011557;
+}
+.block6{
+    background-color: #778253;
+}
+.block7{
+    background-color: #45fe63;
+}
