@@ -21,7 +21,7 @@ if(isNaN(age) || age < 0){
 true || true === true
 false || true === true
 true || false === true
-false || false === false
+false || false === flse
 
 true && true === true
 false && true === false
